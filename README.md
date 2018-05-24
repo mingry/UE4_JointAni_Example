@@ -1,4 +1,4 @@
-# UE4_Spline_Example
+# UE4_JointAniExample
 
 ## UE4 Version  4.18.3
 
